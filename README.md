@@ -110,25 +110,28 @@ http://127.0.0.1:5000
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Home Page
+### 🏠 Home Page
+![Home Page](screenshots/home-page.png)
 
-(Add Screenshot)
+### 📤 Upload File
+![Upload File](screenshots/upload-image.png)
 
-### Amazon S3 Bucket
+### 📋 View Uploaded Files
+![View Uploaded Files](screenshots/view-files.png)
 
-(Add Screenshot)
+### ⬇️ Download File
+![Download File](screenshots/download-image.png)
 
-### AWS IAM Configuration
+### ☁️ Amazon S3 Bucket
+![Amazon S3 Bucket](screenshots/s3-bucket.png)
 
-(Add Screenshot)
+### 🔐 IAM Policy
+![IAM Policy](screenshots/iam-policy.png)
 
-### System Architecture
-
-(Add Architecture Image)
-
----
+### 🏗️ System Architecture
+![System Architecture](screenshots/architecture.png)
 
 ## Future Improvements
 
